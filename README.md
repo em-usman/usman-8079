@@ -1,2 +1,2 @@
 # usman-8079
-#Welcom
+Welcome to first practcal repo.
