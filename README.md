@@ -1,2 +1,3 @@
 # usman-8079
-Welcome to first practcal repo.
+Muhammad Usman Tariq
+2022-ag-8079
